@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/vitaliquideth",
   "VITE_SEO_SITE_NAME": "Vitaliquid",
   "VITE_SEO_SITE_DESCRIPTION": "The first perp DEX on Ethereum",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/vitaliquid-3449/",
+  "VITE_SEO_SITE_URL": "https://vitaliquid.trade",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@vitaliquideth",
